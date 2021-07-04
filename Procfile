@@ -1,1 +1,1 @@
-worker: node MrTiger.js
+worker: node shvan.js
