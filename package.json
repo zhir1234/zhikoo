@@ -1,9 +1,9 @@
 {
-  "name": "MrTiger",
+  "name": "shvan",
   "version": "1.0.0",
-  "description": "BrodCast By : MrTiger",
-  "main": "MrTiger.js",
-  "author": "MrTiger",
+  "description": "BrodCast By : shvan",
+  "main": "shvan.js",
+  "author": "shvan",
   "license": "MIT",
       "engines": {
         "node": "10.x"
@@ -80,6 +80,6 @@
     "ytdl-core": "^1.0.3"
   },
   "scripts": {
-    "start": "node MrTiger.js"
+    "start": "node shvan.js"
   }
 }
