@@ -7387,7 +7387,7 @@ message.member.voiceChannel
 
 //تۆكینه‌كان لێره‌ جا بنێ
 
-client.login("ODM1Njg5MjUwODI5NjMxNDg5.YIeupQ.godag4QNNo2hd4btc1i-102XPp4");
+client.login("ODkwMTk0NzA1MTkzNzYyODI3.MTYzMjMwOTQ1MzU0Mw==.c9cb1f785e8162405f664190aa93a0f8");
 client2.login("");
 client3.login("");
 client4.login("");
